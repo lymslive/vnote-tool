@@ -1,0 +1,9 @@
+*.pyc
+*.swp
+tags
+*.o
+*.out
+*.bak
+core.*
+Session*.vim
+_box/
